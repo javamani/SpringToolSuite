@@ -1,0 +1,2 @@
+# SpringToolSuite
+Projects using SpringToolSuites
